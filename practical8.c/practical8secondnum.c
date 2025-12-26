@@ -1,4 +1,6 @@
 #include<stdio.h>
+//Name: Chandramani Patel
+//Erp: 10426
 //Practical 8:Q.2. Swap 2 number using pass by reference//
 void swap(int *a,int *b){
     int temp=*a;

@@ -1,5 +1,7 @@
 #include<stdio.h>
 int main(){
+    //Name: Chandramani Patel
+    //Erp: 10426
     //Practical 6 : Q.3.ATM Pin Authentication//
     int pin;
     int attempts=0;

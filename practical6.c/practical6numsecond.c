@@ -1,5 +1,7 @@
 #include<stdio.h>
 int main(){
+    //Name: Chandramani Patel
+    //Erp: 10426
     //Practical 6 : Q.2 sum of even number using continue.//
     int n;
     printf("enter a number:");

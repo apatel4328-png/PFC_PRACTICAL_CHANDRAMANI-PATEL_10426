@@ -1,4 +1,6 @@
 #include<stdio.h>
+//Name: Chandramani Patel
+//Erp: 10426
 //Practical 8:Q.3. write a function to print a right angle triagle of stars of height n.//
 int star(int n){
     for(int i=1;i<=n;i++){

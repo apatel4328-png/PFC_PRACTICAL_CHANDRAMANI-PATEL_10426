@@ -1,5 +1,7 @@
 #include<stdio.h>
 int main(){
+    //Name: Chandramani Patel
+    //Erp: 10426
     //Practical 7 : Q.2.Hourglass of length 2n-1//
     int n;
     scanf("%d",&n);

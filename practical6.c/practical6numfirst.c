@@ -1,5 +1,7 @@
 #include<stdio.h>
 int main(){
+    //Name: Chandramani Patel
+    //Erp: 10426
     // Practical 6 : Q.1. print numbers from a to b using loops.// 
     int a;
     printf("enter number a:");
