@@ -13,3 +13,6 @@ int main(){
     return 0;
 
 }
+//ouput:
+//enter a number:20
+//sum of even number from 1 to 20 is 110

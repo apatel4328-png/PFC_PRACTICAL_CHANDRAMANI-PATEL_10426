@@ -11,3 +11,5 @@ int main(){
     printf("after swapping a=%d and b=%d",a,b);
     return 0;
 }
+//output:
+//after swapping a=3 and b=5

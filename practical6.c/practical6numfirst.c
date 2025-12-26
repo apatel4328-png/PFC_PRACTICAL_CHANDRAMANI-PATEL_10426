@@ -14,3 +14,7 @@ int main(){
     return 0;
 
 }
+//output:
+//enter number a:2
+//enter number b:10
+//numbers from 2 to 10 is 2 3 4 5 6 7 8 9 10 

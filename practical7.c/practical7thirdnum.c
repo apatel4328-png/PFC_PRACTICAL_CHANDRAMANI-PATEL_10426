@@ -14,3 +14,9 @@ int main(){
     }
     return 0;
 }
+//output:
+//4
+//A
+//AB
+//ABC
+//ABCD
